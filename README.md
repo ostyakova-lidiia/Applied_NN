@@ -29,7 +29,7 @@ Applied Neural Networks: Course Materials (HSE University)
 | Задание | Темы | Дедлайн
 |------------------|---------|--------|
 | ДЗ 1: Семантический поиск по документам на старославянском языке| PyTorch + Embeddings | 24.03.26 23:59|
-| ДЗ 2: OCR + генерация описания для изображения| OCR + Prompting + Greedy/Beam Search | 25.04.26 23:59 | 
+| ДЗ 2: OCR + генерация описания для изображения| OCR + OpenCV + Greedy/Beam Search | 25.04.26 23:59 | 
 | ДЗ 3:  | TBD |  TBD | 
 | ДЗ 4: | TBD |  TBD | 
 
