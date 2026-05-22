@@ -18,8 +18,9 @@ Applied Neural Networks: Course Materials (HSE University)
 | Распознавание символов (OCR) | 11.04.2026 | [ссылка](#) | [ссылка](#) |
 | Fine-tuning | 18.04.2026 | [ссылка](#) | [ссылка](#) |
 | LoRA/QLoRA + DPO/RLHF| 25.04.2026 | [ссылка](#) | [ссылка](#) |
-| TBD | TBD | [ссылка](#) | [ссылка](#) |
-
+| Введение в Audio ML | 16.05.2026 | [ссылка](#) | [ссылка](#) |
+| Multimodal Data | 23.05.2026 | [ссылка](#) | [ссылка](#) |
+| AI Agents | 30.05.2026 | [ссылка](#) | [ссылка](#) |
 
 
 ---
@@ -30,7 +31,7 @@ Applied Neural Networks: Course Materials (HSE University)
 |------------------|---------|--------|
 | ДЗ 1: Семантический поиск по документам на старославянском языке| PyTorch + Embeddings | 24.03.26 23:59|
 | ДЗ 2: OCR + генерация описания для изображения| OCR + OpenCV + Greedy/Beam Search | 26.04.26 23:59 | 
-| ДЗ 3:  | TBD |  TBD | 
-| ДЗ 4: | TBD |  TBD | 
+| ДЗ 3: RAG + Caption Generation | RAG + Multimodal Data + BLIP + Conditional/Unconditional Generation| 30.05.26 23:59  | 
+| ДЗ 4: | Audio ML + Finetuning  |  | 
 
 ---
